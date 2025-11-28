@@ -3,8 +3,9 @@ Muhammed AHMED
 250541604
 26.11.2025
 Sinema Bileti nasıl hesaplanır yapan program
+    */
 import java.util.Scanner;
- */
+ 
 
 public class SinemaBileti {
 
@@ -100,3 +101,4 @@ public class SinemaBileti {
         generateTicketInfo(gun, saat, yas, meslek, filmTuru);
     }
 }
+
